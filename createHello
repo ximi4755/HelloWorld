@@ -1,0 +1,20 @@
+print("Hello world");
+cout<<"Hello world"<<endl;
+print("hello world")
+
+cc.Director:getInstance()
+
+Director
+Node
+Scene
+Layer
+Label
+Sprite
+Menu
+
+cocos2d-x
+lua
+c++
+c
+java
+
